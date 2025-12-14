@@ -1,0 +1,4 @@
+name = "Fast_Collatz"
+uuid = "fbd684b0-a379-4221-9843-c049ccc37f41"
+version = "0.1.0"
+authors = ["Karl Linek <karl@linek.at>"]
